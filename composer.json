@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kartik\\mpdf\\": ""
+            "zjean\\mpdf\\": ""
         }
     },
     "extra": {
